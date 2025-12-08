@@ -2,7 +2,6 @@
 @section('title') Smart Home Security Systems & CCTV Solutions | Total Home Securities
  @endsection
 @section('content')
-
             <!-- slider-area -->
             <section id="home" class="slider-area slider-four fix p-relative">
                
@@ -16,7 +15,7 @@
                            <div class="row justify-content-center align-items-center">
                                 <div class="col-lg-7 col-md-7">
                                     <div class="slider-content s-slider-content">
-                                         <h1 data-animation="fadeInUp" data-delay=".4s">Secure Your Home Today</h1>
+                                         <h1 data-animation="fadeInUp" data-delay=".4s">Secure Your Home Todayyyy</h1>
                                         <p data-animation="fadeInUp" data-delay=".6s">Protect your loved ones with innovative security solutions. Experience peace of mind knowing your home is in safe hands.</p>
                                         
                                          <div class="slider-btn mt-30 mb-160">     
