@@ -200,7 +200,7 @@
             <h2>Get <span style="color:#ca60e8;">3 Months FREE</span> Monitoring!</h2>
             <p>Call now and secure your home with our exclusive limited-time offer.</p>
             <div class="slider-btn">                                          
-                            <a href="#0" class="btn ss-btn">Call Now</a>					
+                            <a href="tel:+18437994445" class="btn ss-btn">Call Now</a>					
                         </div>
         </div>
     </div>
