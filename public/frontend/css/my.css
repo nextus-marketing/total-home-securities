@@ -12,15 +12,16 @@
 }
 
 .highlight {
-color: #ca60e8;
-}
-.header-line{
-    text-align:center;
-     font-size: 15px;
+    color: #ca60e8;
 }
 
-@media (max-width: 767px){
-    .header-line{
+.header-line {
+    text-align: center;
+    font-size: 15px;
+}
+
+@media (max-width: 767px) {
+    .header-line {
         font-size: 13px;
     }
 }
@@ -46,6 +47,7 @@ color: #ca60e8;
         text-align: center !important;
     }
 }
+
 @media (min-width: 768px) {
     .mobile-center {
         text-align: left !important;
@@ -93,7 +95,8 @@ color: #ca60e8;
     right: -100px;
 }
 
-.home-blog-active .slick-arrow, .home-blog-active2 .slick-arrow {
+.home-blog-active .slick-arrow,
+.home-blog-active2 .slick-arrow {
     position: absolute;
     top: 30%;
     transform: translateY(-50%);
@@ -119,7 +122,8 @@ color: #ca60e8;
     border-radius: 50%;
 }
 
-.home-blog-active .slick-arrow.slick-next, .home-blog-active2 .slick-arrow.slick-next {
+.home-blog-active .slick-arrow.slick-next,
+.home-blog-active2 .slick-arrow.slick-next {
     right: -100px;
     left: auto;
 }
@@ -133,18 +137,18 @@ color: #ca60e8;
     position: relative;
 }
 
-.services-08-item--wrapper > div:nth-child(2) {
+.services-08-item--wrapper>div:nth-child(2) {
     border-top: 1px solid #cccccc;
     border-bottom: 1px solid #cccccc;
 }
 
-.services-08-item--wrapper > div:nth-child(3) {
+.services-08-item--wrapper>div:nth-child(3) {
     border-top: 1px solid #cccccc;
     border-left: none;
     border-bottom: 1px solid #cccccc;
 }
 
-.services-08-item--wrapper > div:nth-child(1) {
+.services-08-item--wrapper>div:nth-child(1) {
     border-top: 1px solid #cccccc;
     border-left: 1px solid #cccccc;
     border-bottom: 1px solid #cccccc;
@@ -164,8 +168,13 @@ color: #ca60e8;
 
 /* Smooth Horizontal Rotation */
 @keyframes rotateText {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
 }
 
 
@@ -249,7 +258,8 @@ color: #ca60e8;
 .testimonial-active .slick-arrow:hover {
     color: #ca60e8;
 }
-.breadcrumb > .active {
+
+.breadcrumb>.active {
     color: #ca60e8 !important;
     font-weight: 500;
 }
@@ -275,7 +285,8 @@ color: #ca60e8;
     margin-bottom: 0 !important;
 }
 
-.home-blog-active .slick-arrow:hover, .home-blog-active2 .slick-arrow:hover {
+.home-blog-active .slick-arrow:hover,
+.home-blog-active2 .slick-arrow:hover {
     background: #ca60e8;
     color: #fff;
 }
@@ -335,7 +346,7 @@ a:hover {
 
 .copyright-wrap {
     background: #ca60e8;
-    padding: 30px 0;
+    padding: 10px 0;
     color: #fff;
     font-size: 15px;
 }
