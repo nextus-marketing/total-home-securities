@@ -78,7 +78,7 @@
                         <h5 class="mt-3">6. Damaged or Incorrect Orders</h5>
                         <p>If your order arrives damaged or incorrect:</p>
                         <ul class="list-style-one text-start mb-4">
-                            <li>Notify us immediately at <a href="mailto:support@totalhomesecurities.com">support@totalhomesecurities.com</a> or call <a href="tel:+18437994445">+1 (843) 799-4445</a>.</li>
+                            <li>Notify us immediately at <a href="mailto:support@totalhomesecurities.com">support@totalhomesecurities.com</a> or call <a href="tel:+15715008149">+1 (571) 500-8149</a>.</li>
                             <li>Include clear photos and your order number.</li>
                             <li>We will arrange a replacement or return at no cost.</li>
                         </ul>
@@ -90,7 +90,7 @@
                         <p>
                             <b>Total Home Securities</b><br>
                             Email: <a href="mailto:info@totalhomesecurities.com">info@totalhomesecurities.com</a><br>
-                            Phone: <a href="tel:+18437994445">+1 (843) 799-4445</a><br>
+                            Phone: <a href="tel:+15715008149">+1 (571) 500-8149</a><br>
                             Address: 402 S Franklin Dr, Florence, SC 29501, USA
                         </p>
                         <!-- RETURN & REFUND POLICY END -->
