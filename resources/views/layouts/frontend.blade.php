@@ -143,7 +143,7 @@
                         <div class="footer-link">
                             <ul>
                                 <!-- Added email and phone -->
-                                <li><a href="mailto:info@totalhomesecurities.com">info@totalhomesecurities.com</a></li>
+                                <!-- <li><a href="mailto:info@totalhomesecurities.com">info@totalhomesecurities.com</a></li> -->
                                 <li><a href="tel:+18884476320">+1 (888) 447-6320</a></li>
                                 <li><a href="https://maps.app.goo.gl/HxRrynshLhJYvSij9">402 S Franklin Dr, Florence, SC 29501, USA</a></li>
                             </ul>
