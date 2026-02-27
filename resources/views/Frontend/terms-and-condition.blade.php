@@ -95,7 +95,7 @@
                         <p>
                             <span class="highlight">Total Home Securities</span><br>
                             Email: <a href="mailto:info@totalhomesecurities.com">info@totalhomesecurities.com</a><br>
-                            Phone: <a href="tel:+15715008149">+1 (571) 500-8149</a><br>
+                            Phone: <a href="tel:+18884476320">+1 (888) 447-6320</a><br>
                             Address: 402 S Franklin Dr, Florence, SC 29501, USA
                         </p>
 

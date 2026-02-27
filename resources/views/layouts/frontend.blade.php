@@ -80,7 +80,7 @@
 
                     <!-- Call Now Button (Desktop only) -->
                     <div class="col-xl-3 col-lg-3 text-right d-none d-lg-block mt-15 mb-15">
-                        <a href="tel:+15715008149" class="top-btn">Call Now</a>
+                        <a href="tel:+18884476320" class="top-btn">Call Now</a>
                     </div>
 
                     <!-- Mobile Menu -->
@@ -144,7 +144,7 @@
                             <ul>
                                 <!-- Added email and phone -->
                                 <li><a href="mailto:info@totalhomesecurities.com">info@totalhomesecurities.com</a></li>
-                                <li><a href="tel:+15715008149">+1 (571) 500-8149</a></li>
+                                <li><a href="tel:+18884476320">+1 (888) 447-6320</a></li>
                                 <li><a href="https://maps.app.goo.gl/HxRrynshLhJYvSij9">402 S Franklin Dr, Florence, SC 29501, USA</a></li>
                             </ul>
                         </div>
@@ -200,12 +200,12 @@
             <h2>Get <span style="color:#ca60e8;">3 Months FREE</span> Monitoring!</h2>
             <p>Call now and secure your home with our exclusive limited-time offer.</p>
             <div class="slider-btn">                                          
-                            <a href="tel:+15715008149" class="btn ss-btn">Call Now</a>					
+                            <a href="tel:+18884476320" class="btn ss-btn">Call Now</a>					
                         </div>
         </div>
     </div>
 
-   <a href="tel:+15715008149" class="call-now-float">
+   <a href="tel:+18884476320" class="call-now-float">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff">
         <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 
                  1 0 011-.24 11.05 11.05 0 003.47.56 1 1 0 011 1V21a1 

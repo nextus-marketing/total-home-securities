@@ -19,7 +19,7 @@
                                         <p data-animation="fadeInUp" data-delay=".6s">Protect your loved ones with innovative security solutions. Experience peace of mind knowing your home is in safe hands.</p>
                                         
                                          <div class="slider-btn mt-30 mb-160">     
-                                             <a href="tel:+15715008149" class="btn ss-btn active mr-15">Talk To An Expert</a>
+                                             <a href="tel:+18884476320" class="btn ss-btn active mr-15">Talk To An Expert</a>
                                              
                                         </div>        
                                                               
@@ -52,7 +52,7 @@
 
     <!-- Centered Button -->
     <div class="slider-btn mobile" style="display:flex; justify-content:center;">
-        <a href="tel:+15715008149" class="btn ss-btn">
+        <a href="tel:+18884476320" class="btn ss-btn">
             CALL NOW
         </a>
     </div>
@@ -105,7 +105,7 @@
                                
                             </ul>
                               <div class="slider-btn mobile">                                          
-                                            <a href="tel:+15715008149" class="btn ss-btn">Call Now</a>					
+                                            <a href="tel:+18884476320" class="btn ss-btn">Call Now</a>					
                                </div>
                       
                             </div>
@@ -223,7 +223,7 @@
 
         <!-- MOBILE BUTTON -->
         <div class="slider-btn d-flex justify-content-center mt-5 d-lg-none">
-            <a href="tel:+15715008149" class="btn ss-btn">Call Now</a>
+            <a href="tel:+18884476320" class="btn ss-btn">Call Now</a>
         </div>
 
     </div>
@@ -366,7 +366,7 @@ ABOUT SECTION 1
                     </p>
 
                     <div class="slider-btn" style="margin-top:25px;">
-                        <a href="tel:+15715008149" class="btn ss-btn">
+                        <a href="tel:+18884476320" class="btn ss-btn">
                             CALL NOW
                         </a>
                     </div>
@@ -416,7 +416,7 @@ ABOUT SECTION 2 (REVERSED)
                     </p>
 
                     <div class="slider-btn" style="margin-top:25px;">
-                        <a href="tel:+15715008149" class="btn ss-btn">
+                        <a href="tel:+18884476320" class="btn ss-btn">
                             CALL NOW
                         </a>
                     </div>
@@ -505,7 +505,7 @@ ABOUT SECTION 2 (REVERSED)
                        At Total Home Securities, we provide advanced protection solutions tailored to your needs. Our professional installations and reliable systems ensure your home and loved ones are always safe and secure.
                     </p>
 
-                    <a href="tel:+15715008149" class="btn ss-btn">
+                    <a href="tel:+18884476320" class="btn ss-btn">
                         CALL NOW
                     </a>
                 </div>
@@ -678,7 +678,7 @@ ABOUT SECTION 2 (REVERSED)
                         </div>
                     </div>
                     <div class="slider-btn d-flex justify-content-center mt-5">                                          
-                          <a href="tel:+15715008149" class="btn ss-btn">Free Consultation</a>					
+                          <a href="tel:+18884476320" class="btn ss-btn">Free Consultation</a>					
                     </div>
                 </div>
             </section>
@@ -797,7 +797,7 @@ ABOUT SECTION 2 (REVERSED)
                         
                         </div>
                         <div class="col-lg-12 col-md-12 mt-3">
-                            <a href="tel:+15715008149" class="btn ss-btn">Free Consultation</a>
+                            <a href="tel:+18884476320" class="btn ss-btn">Free Consultation</a>
                         </div>
                         
                        
