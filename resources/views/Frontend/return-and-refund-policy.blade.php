@@ -58,7 +58,7 @@
                         <h5 class="mt-3">3. Return Process</h5>
                         <p>To initiate a return:</p>
                         <ul class="list-style-one text-start mb-4">
-                            <li>Contact our support team at <a href="mailto:returns@totalhomesecurities.com">returns@totalhomesecurities.com</a> with your order number and reason for return.</li>
+                            <li>Contact our support team at <a href="tel:+18884476320">+1 (888) 447-6320</a> with your order number and reason for return.</li>
                             <li>Our team will verify your request and provide return instructions.</li>
                             <li>Carefully pack the item and ship it to the provided return address at your expense (unless due to our error).</li>
                             <li>You will receive a confirmation once we receive and inspect the returned item.</li>
