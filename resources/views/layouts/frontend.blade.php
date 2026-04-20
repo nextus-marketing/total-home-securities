@@ -38,8 +38,7 @@
                         <ul>
                             <li class="header-line rotate-text">
                                 <span>
-                                    <b class="highlight">Limited Time Offer:</b> 
-                                    Talk To Our Security Experts & Get 3 Months Free Monitoring Services
+                                    <b class="highlight">Speak with Security Professionals for Reliable Security Solutions
                                 </span>
                             </li>
                         </ul>
@@ -197,8 +196,8 @@
                  <img src="/frontend/my-img/new-logo.png" alt="logo" style="max-width:220px;">
             </div>
             <span class="close-popup">&times;</span>
-            <h2>Get <span style="color:#ca60e8;">3 Months FREE</span> Monitoring!</h2>
-            <p>Call now and secure your home with our exclusive limited-time offer.</p>
+            <h2>Get <span style="color:#ca60e8;"> Speak with Security Professionals for Reliable Security Solutions</h2>
+            <!-- <p>Call now and secure your home with our exclusive limited-time offer.</p> -->
             <div class="slider-btn">                                          
                             <a href="tel:+18884476320" class="btn ss-btn">Call Now</a>					
                         </div>
