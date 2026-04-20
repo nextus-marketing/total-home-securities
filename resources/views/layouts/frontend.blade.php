@@ -196,7 +196,7 @@
                  <img src="/frontend/my-img/new-logo.png" alt="logo" style="max-width:220px;">
             </div>
             <span class="close-popup">&times;</span>
-            <h2>Get <span style="color:#ca60e8;"> Speak with Security Professionals for Reliable Security Solutions</h2>
+            <h4><span style="color:#ca60e8;"> Speak with Security Professionals for Reliable Security Solutions</h4>
             <!-- <p>Call now and secure your home with our exclusive limited-time offer.</p> -->
             <div class="slider-btn">                                          
                             <a href="tel:+18884476320" class="btn ss-btn">Call Now</a>					
